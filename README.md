@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abaysew</h1>
 <h3 align="center">A passionate Computer science student from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website With React**
+- 🔭 I’m currently studying **Computer science**
 
 - 🌱 I’m currently learning **Node, Express**
 
