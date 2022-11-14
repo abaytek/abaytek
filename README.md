@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node, Express**
 
-- 👨‍💻 All of my projects are available at [https://abaytek.github.io/](https://abaytek.github.io/)
+- 👨‍💻 All of my projects are available at [https://abaytek.github.io/](//https://abaytek.github.io/)
 
 - 💬 Ask me about **C++, JavaScript, Python**
 
 - 📫 How to reach me **abaysewtekle@gmail.com**
 
-- ⚡ Fun fact **I don't think I'm funny**
+- ⚡ Fun fact **I have no Fun Fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
