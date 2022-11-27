@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, Express**
 
-- 👨‍💻 All of my projects are available at [https://abaytek.github.io/](//https://abaytek.github.io/)
+- 👨‍💻 All of my projects are available at [https://abay-portfolio.netlify.app//](//https://abay-portfolio.netlify.app//)
 
 - 💬 Ask me about **C++, JavaScript, Python**
 
