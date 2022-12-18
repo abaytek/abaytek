@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer science**
 
-- 🌱 I’m currently learning **Node, Express**
+- 🌱 I’m currently learning **Advanced Node JS**
 
 - 👨‍💻 All of my projects are available at [https://abay-portfolio.netlify.app](https://abay-portfolio.netlify.app)
 
