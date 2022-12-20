@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abaysewtekle@gmail.com**
 
-- ⚡ Fun fact **I have no Fun Fact**
+- ⚡ Fun fact **What Fun Fact !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
