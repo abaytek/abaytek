@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Advanced Node JS**
 
-- 👨‍💻 All of my projects are available at [https://abay-portfolio.netlify.app](https://abay-portfolio.netlify.app)
-
 - 💬 Ask me about **C++, JavaScript, Python**
 
 - 📫 How to reach me **abaysewtekle@gmail.com**
