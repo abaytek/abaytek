@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abaysew</h1>
-<h3 align="center">A passionate Computer science student from Ethiopia</h3>
+<h3 align="center">Just Another Dev</h3>
 
 - 🔭 I’m currently studying **Computer Science**
 
