@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 🌱 I’m currently learning **Advanced Node JS**
+- 🌱 I’m currently learning **To Learn**
 
 - 💬 Ask me about **C++, JavaScript, Python**
 
