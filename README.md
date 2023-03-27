@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 🔭 Portfolio <a href="https://abay-portfolio.netlify.app/" target="blank">Click Me</a>
+<!-- - 🔭 Portfolio <a href="https://abay-portfolio.netlify.app/" target="blank">Click Me</a> -->
 
-- 🌱 I’m currently learning <a></a>
+- 🌱 I’m currently learning to learn
 
 - 💬 Ask me about **C++, JavaScript, Python**
 
