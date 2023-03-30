@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abaysew</h1>
 <h3 align="center">Just Another Dev</h3>
 
-- 🔭 I’m currently studying **Computer Science**
+<!-- - 🔭 I’m currently studying **Computer Science** -->
 
 <!-- - 🔭 Portfolio <a href="https://abay-portfolio.netlify.app/" target="blank">Click Me</a> -->
 
