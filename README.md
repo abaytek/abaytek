@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to learn
 
-- 💬 Ask me about ** JavaScript, Python**
+- 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **abaysewtekle@gmail.com**
 
