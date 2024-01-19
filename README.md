@@ -5,7 +5,7 @@
 
 <!-- - 🔭 Portfolio <a href="https://abay-portfolio.netlify.app/" target="blank">Click Me</a> -->
 
-- 🌱 I’m currently learning to learn
+- 🌱 I’m currently learning to Learn
 
 - 💬 Ask me about **JavaScript, Python**
 
