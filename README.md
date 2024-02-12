@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Holla 👋</h1>
 <h3 align="center">Just Another Developer </h3>
 
 <!-- - 🔭 I’m currently studying **Computer Science** --> 
