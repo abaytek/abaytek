@@ -1,5 +1,5 @@
 <h1 align="center">Holaa 👋</h1>
-<h3 align="center">Abaysew Tekle, Just another Developer</h3>
+<h3 align="center">Just another Developer Here...</h3>
 
 <!-- - 🔭 I’m currently studying **Computer Science** --> 
 
