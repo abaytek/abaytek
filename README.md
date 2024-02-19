@@ -1,5 +1,5 @@
 <h1 align="center">Holaa 👋</h1>
-<h3 align="center">Looking for Mulu Stack Developer ?</h3>
+<h3 align="center">Abaysew Tekle, Just another Developer</h3>
 
 <!-- - 🔭 I’m currently studying **Computer Science** --> 
 
